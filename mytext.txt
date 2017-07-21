@@ -1,0 +1,15 @@
+total 60
+drwxrwxr-x  5 haudang haudang  4096 Th07 20 09:07 .
+drwxr-xr-x 26 haudang haudang  4096 Th07 20 08:51 ..
+-rw-rw-r--  1 haudang haudang    50 Th07 19 16:59 a.txt
+drwxrwxr-x  2 haudang haudang  4096 Th07 17 14:47 code .NET
+drwxrwxr-x  2 haudang haudang  4096 Th07 17 14:47 demo
+drwxrwxr-x  8 haudang haudang  4096 Th07 17 15:28 .git
+-rw-rw-r--  1 haudang haudang     0 Th07 19 17:00 mycal
+-rw-rw-r--  1 haudang haudang    50 Th07 19 16:32 mydate
+-rw-rw-r--  1 haudang haudang     0 Th07 20 09:21 mytext.txt
+-rw-rw-r--  1 haudang haudang     9 Th07 17 14:47 README.md
+-rw-rw-r--  1 haudang haudang     9 Th07 20 09:04 text2.txt
+-rw-r--r--  1 haudang haudang 12288 Th07 20 09:08 .text2.txt.swo
+-rw-r--r--  1 haudang haudang 12288 Th07 20 09:05 .text2.txt.swp
+-rw-rw-r--  1 haudang haudang     0 Th07 19 16:50 text.txt
